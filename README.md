@@ -1,3 +1,3 @@
-# Digital-Clock
+# Graphical-Analog-Clock
 
 Using C - Graphics
